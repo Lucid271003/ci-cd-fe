@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import { useEffect, useState } from "react";
 
@@ -16,7 +15,6 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>MERN Stack CI/CD Demo</h1>
-        <p>Frontend says: Hello from React!</p>
         <p>Frontend says: Hello from React!</p>
         <p>Frontend says: Hello from React!</p>
         <p>Frontend says: Hello from React!</p>
