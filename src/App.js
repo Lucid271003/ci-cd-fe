@@ -17,6 +17,11 @@ function App() {
       <header className="App-header">
         <h1>MERN Stack CI/CD Demo</h1>
         <p>Frontend says: Hello from React!</p>
+        <p>Frontend says: Hello from React!</p>
+        <p>Frontend says: Hello from React!</p>
+        <p>Frontend says: Hello from React!</p>
+        <p>Frontend says: Hello from React!</p>
+        <p>Frontend says: Hello from React!</p>
         <p>Backend says: {message}</p>
       </header>
     </div>
