@@ -22,6 +22,12 @@ function App() {
         <p>Frontend says: Hello from React!</p>
         <p>Frontend says: Hello from React!</p>
         <p>Frontend says: Hello from React!</p>
+        <p>Frontend says: Hello from React!</p>
+        <p>Frontend says: Hello from React!</p>
+        <p>Frontend says: Hello from React!</p>
+        <p>Frontend says: Hello from React!</p>
+        <p>Frontend says: Hello from React!</p>
+        <p>Frontend says: Hello from React!</p>
         <p>Backend says: {message}</p>
       </header>
     </div>
